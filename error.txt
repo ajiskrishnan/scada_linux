@@ -1,0 +1,6 @@
+ERR_status  =  ERROR
+CHRG_status  =  SOLAR
+INV_status  =  ON
+BAT_status  =  LOW TRIP OUT
+LOAD_status  =  OVERLOAD TRIP OUT
+BAT_C_D_status  =  Battry Charging
